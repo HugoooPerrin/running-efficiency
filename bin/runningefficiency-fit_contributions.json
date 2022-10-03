@@ -1,0 +1,1 @@
+{"datafields":[{"id":0,"chart-visible":true,"activity-visible":false,"lap-visible":false,"chart-title-key":"chart_label_re","label-key":"chart_label_re","unit-label-key":"chart_units_re","sort-order":0,"precision":2,"fill-color":"rgba(255, 38, 83, 1.0)"}],"strings":{"default":{"chart_label_re":"Running efficiency","chart_units_re":"%thr/%ftp"}}}

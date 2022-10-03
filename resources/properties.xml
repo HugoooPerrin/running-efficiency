@@ -1,0 +1,89 @@
+<resources>
+
+    <properties>
+        <property id="VERSION_ID" type="string">1.0.0</property>
+        
+        <property id="METRIC_ID" type="number">0</property>
+        
+        <property id="RFTP" type="number">435</property>
+        <property id="RFTPa" type="float">4.17</property>
+        <property id="LTHR" type="float">188</property>
+
+        <property id="NORM" type="float">1</property>
+
+        <property id="SKIP_FIRST" type="number">600</property>
+        <property id="WINDOW" type="number">300</property>
+        <property id="WINDOW_GRADE" type="number">15</property>
+        
+    </properties>
+
+    <strings>
+        <string id="VERSION_ID_TITLE">App version</string>
+        <string id="METRIC_ID_TITLE">Base metric</string>
+
+        <string id="RFTP_TITLE">Running FTP (watts)</string>
+        <string id="RFTPa_TITLE">Running FTPa (m/sec)</string>
+        <string id="LTHR_TITLE">Threshold heart rate (bpm)</string>
+
+        <string id="gap">GAP</string>
+        <string id="pace">Pace</string>
+        <string id="power">Power</string>
+
+        <string id="NORM_TITLE">Normalizing constant</string>
+
+        <string id="SKIP_FIRST_TITLE">Ignore session beginning (seconds)</string>
+        <string id="WINDOW_TITLE">Rolling window duration (seconds)</string>
+        <string id="WINDOW_GRADE_TITLE">Rolling window duration for grade computation only (must be less than rolling duration)</string>
+
+        <string id="running_efficiency">Running efficiency</string>
+
+        <string id="chart_label_re">Running efficiency</string>
+        <string id="chart_units_re">%thr/%ftp</string>
+    </strings>
+
+    <settings>
+        <setting propertyKey="@Properties.VERSION_ID" title="@Strings.VERSION_ID_TITLE">
+            <settingConfig type="alphaNumeric" readonly="true" />
+        </setting>
+        <setting propertyKey="@Properties.METRIC_ID" title="@Strings.METRIC_ID_TITLE">
+            <settingConfig type="list" >
+                <listEntry value="0">@Strings.power</listEntry>
+                <listEntry value="1">@Strings.pace</listEntry>
+                <listEntry value="2">@Strings.gap</listEntry>
+            </settingConfig>
+        </setting>
+ 
+        <setting propertyKey="@Properties.RFTP" title="@Strings.RFTP_TITLE">
+            <settingConfig type="numeric" min="1" />
+        </setting>
+        <setting propertyKey="@Properties.RFTPa" title="@Strings.RFTPa_TITLE">
+            <settingConfig type="numeric" min="1" />
+        </setting>
+        <setting propertyKey="@Properties.LTHR" title="@Strings.LTHR_TITLE">
+            <settingConfig type="numeric" min="1" />
+        </setting>
+
+        <setting propertyKey="@Properties.NORM" title="@Strings.NORM_TITLE">
+            <settingConfig type="numeric" min="0.1" />
+        </setting>
+
+        <setting propertyKey="@Properties.SKIP_FIRST" title="@Strings.SKIP_FIRST_TITLE">
+            <settingConfig type="numeric" min="120" max="1200" />
+        </setting>
+        <setting propertyKey="@Properties.WINDOW" title="@Strings.WINDOW_TITLE">
+            <settingConfig type="numeric" min="15" max="120" />
+        </setting>
+        <setting propertyKey="@Properties.WINDOW_GRADE" title="@Strings.WINDOW_GRADE_TITLE">
+            <settingConfig type="numeric" min="15" max="120" />
+        </setting>
+
+    </settings>
+
+    <fitContributions>
+        <fitField id="0" displayInActivitySummary="false" displayInChart="true" sortOrder="0" precision="2"
+        chartTitle="@Strings.chart_label_re" dataLabel="@Strings.chart_label_re"
+        unitLabel="@Strings.chart_units_re" fillColor="#ff2653" />
+    
+    </fitContributions>
+
+</resources>

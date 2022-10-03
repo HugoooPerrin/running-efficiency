@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/home/hugo/Bureau/Garmin/running-efficiency/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/Queue.mc" id="1" lineNum="13" parent="globals/Queue" pc="268435456" symbol="initialize"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/Queue.mc" id="1" lineNum="14" parent="globals/Queue" pc="268435460" symbol="initialize"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/Queue.mc" id="1" lineNum="15" parent="globals/Queue" pc="268435470" symbol="initialize"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/Queue.mc" id="2" lineNum="19" parent="globals/Queue" pc="268435482" symbol="update"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/Queue.mc" id="2" lineNum="20" parent="globals/Queue" pc="268435486" symbol="update"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/Queue.mc" id="2" lineNum="21" parent="globals/Queue" pc="268435513" symbol="update"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/Queue.mc" id="2" lineNum="23" parent="globals/Queue" pc="268435554" symbol="update"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/Queue.mc" id="3" lineNum="27" parent="globals/Queue" pc="268435571" symbol="mean"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/Queue.mc" id="3" lineNum="28" parent="globals/Queue" pc="268435575" symbol="mean"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/Queue.mc" id="3" lineNum="29" parent="globals/Queue" pc="268435588" symbol="mean"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/Queue.mc" id="3" lineNum="32" parent="globals/Queue" pc="268435601" symbol="mean"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/Queue.mc" id="3" lineNum="35" parent="globals/Queue" pc="268435622" symbol="mean"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/Queue.mc" id="3" lineNum="36" parent="globals/Queue" pc="268435638" symbol="mean"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/Queue.mc" id="3" lineNum="39" parent="globals/Queue" pc="268435644" symbol="mean"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/Queue.mc" id="3" lineNum="40" parent="globals/Queue" pc="268435669" symbol="mean"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/Queue.mc" id="3" lineNum="44" parent="globals/Queue" pc="268435701" symbol="mean"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/Queue.mc" id="4" lineNum="48" parent="globals/Queue" pc="268435745" symbol="current"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/Queue.mc" id="4" lineNum="49" parent="globals/Queue" pc="268435749" symbol="current"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/Queue.mc" id="5" lineNum="53" parent="globals/Queue" pc="268435790" symbol="last"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/Queue.mc" id="5" lineNum="54" parent="globals/Queue" pc="268435794" symbol="last"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/Queue.mc" id="5" lineNum="55" parent="globals/Queue" pc="268435824" symbol="last"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/Queue.mc" id="5" lineNum="56" parent="globals/Queue" pc="268435840" symbol="last"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/Queue.mc" id="5" lineNum="58" parent="globals/Queue" pc="268435895" symbol="last"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/Queue.mc" id="5" lineNum="61" parent="globals/Queue" pc="268435911" symbol="last"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/Queue.mc" id="6" lineNum="65" parent="globals/Queue" pc="268435914" symbol="count_not_null"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/Queue.mc" id="6" lineNum="66" parent="globals/Queue" pc="268435918" symbol="count_not_null"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/Queue.mc" id="6" lineNum="67" parent="globals/Queue" pc="268435934" symbol="count_not_null"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/Queue.mc" id="6" lineNum="68" parent="globals/Queue" pc="268435961" symbol="count_not_null"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/Queue.mc" id="6" lineNum="69" parent="globals/Queue" pc="268435977" symbol="count_not_null"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/Queue.mc" id="6" lineNum="71" parent="globals/Queue" pc="268435989" symbol="count_not_null"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/Queue.mc" id="6" lineNum="72" parent="globals/Queue" pc="268436008" symbol="count_not_null"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/Queue.mc" id="6" lineNum="75" parent="globals/Queue" pc="268436024" symbol="count_not_null"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/Queue.mc" id="7" lineNum="4" parent="globals/Queue" pc="268438171" symbol="&lt;init&gt;"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyApp.mc" id="9" lineNum="7" parent="globals/RunningEfficiencyApp" pc="268436031" symbol="initialize"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyApp.mc" id="9" lineNum="8" parent="globals/RunningEfficiencyApp" pc="268436035" symbol="initialize"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyApp.mc" id="10" lineNum="12" parent="globals/RunningEfficiencyApp" pc="268436054" symbol="onStart"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyApp.mc" id="11" lineNum="16" parent="globals/RunningEfficiencyApp" pc="268436059" symbol="onStop"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyApp.mc" id="12" lineNum="20" parent="globals/RunningEfficiencyApp" pc="268436064" symbol="getInitialView"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyApp.mc" id="12" lineNum="21" parent="globals/RunningEfficiencyApp" pc="268436068" symbol="getInitialView"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyApp.mc" id="13" lineNum="5" parent="globals/RunningEfficiencyApp" pc="268438152" symbol="&lt;init&gt;"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyApp.mc" id="13" lineNum="5" parent="globals/RunningEfficiencyApp" pc="268438152" symbol="&lt;init&gt;"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyApp.mc" id="14" lineNum="26" parent="globals" pc="268436106" symbol="getApp"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyApp.mc" id="14" lineNum="27" parent="globals" pc="268436118" symbol="getApp"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="16" lineNum="12" parent="globals" pc="268436135" symbol="grade_factor"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="16" lineNum="13" parent="globals" pc="268436147" symbol="grade_factor"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="17" lineNum="42" parent="globals/RunningEfficiencyView" pc="268436175" symbol="initialize"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="17" lineNum="43" parent="globals/RunningEfficiencyView" pc="268436179" symbol="initialize"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="17" lineNum="46" parent="globals/RunningEfficiencyView" pc="268436197" symbol="initialize"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="17" lineNum="47" parent="globals/RunningEfficiencyView" pc="268436243" symbol="initialize"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="17" lineNum="49" parent="globals/RunningEfficiencyView" pc="268436289" symbol="initialize"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="17" lineNum="50" parent="globals/RunningEfficiencyView" pc="268436341" symbol="initialize"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="17" lineNum="52" parent="globals/RunningEfficiencyView" pc="268436393" symbol="initialize"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="17" lineNum="55" parent="globals/RunningEfficiencyView" pc="268436439" symbol="initialize"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="17" lineNum="58" parent="globals/RunningEfficiencyView" pc="268436486" symbol="initialize"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="17" lineNum="59" parent="globals/RunningEfficiencyView" pc="268436532" symbol="initialize"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="17" lineNum="60" parent="globals/RunningEfficiencyView" pc="268436549" symbol="initialize"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="17" lineNum="62" parent="globals/RunningEfficiencyView" pc="268436598" symbol="initialize"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="17" lineNum="64" parent="globals/RunningEfficiencyView" pc="268436644" symbol="initialize"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="17" lineNum="67" parent="globals/RunningEfficiencyView" pc="268436657" symbol="initialize"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="17" lineNum="71" parent="globals/RunningEfficiencyView" pc="268436691" symbol="initialize"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="17" lineNum="77" parent="globals/RunningEfficiencyView" pc="268436771" symbol="initialize"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="18" lineNum="85" parent="globals/RunningEfficiencyView" pc="268436795" symbol="reset_queues"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="18" lineNum="86" parent="globals/RunningEfficiencyView" pc="268436799" symbol="reset_queues"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="18" lineNum="88" parent="globals/RunningEfficiencyView" pc="268436837" symbol="reset_queues"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="18" lineNum="89" parent="globals/RunningEfficiencyView" pc="268436854" symbol="reset_queues"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="18" lineNum="91" parent="globals/RunningEfficiencyView" pc="268436895" symbol="reset_queues"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="18" lineNum="92" parent="globals/RunningEfficiencyView" pc="268436912" symbol="reset_queues"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="18" lineNum="94" parent="globals/RunningEfficiencyView" pc="268436953" symbol="reset_queues"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="18" lineNum="95" parent="globals/RunningEfficiencyView" pc="268436970" symbol="reset_queues"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="18" lineNum="96" parent="globals/RunningEfficiencyView" pc="268437008" symbol="reset_queues"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="18" lineNum="97" parent="globals/RunningEfficiencyView" pc="268437046" symbol="reset_queues"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="18" lineNum="100" parent="globals/RunningEfficiencyView" pc="268437087" symbol="reset_queues"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="19" lineNum="103" parent="globals/RunningEfficiencyView" pc="268437107" symbol="onTimerStart"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="19" lineNum="104" parent="globals/RunningEfficiencyView" pc="268437111" symbol="onTimerStart"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="20" lineNum="107" parent="globals/RunningEfficiencyView" pc="268437132" symbol="onTimerResume"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="20" lineNum="108" parent="globals/RunningEfficiencyView" pc="268437136" symbol="onTimerResume"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="21" lineNum="113" parent="globals/RunningEfficiencyView" pc="268437154" symbol="onWorkoutStepComplete"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="21" lineNum="114" parent="globals/RunningEfficiencyView" pc="268437158" symbol="onWorkoutStepComplete"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="22" lineNum="136" parent="globals/RunningEfficiencyView" pc="268437176" symbol="compute"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="22" lineNum="139" parent="globals/RunningEfficiencyView" pc="268437180" symbol="compute"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="22" lineNum="142" parent="globals/RunningEfficiencyView" pc="268437200" symbol="compute"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="22" lineNum="143" parent="globals/RunningEfficiencyView" pc="268437247" symbol="compute"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="22" lineNum="146" parent="globals/RunningEfficiencyView" pc="268437272" symbol="compute"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="22" lineNum="147" parent="globals/RunningEfficiencyView" pc="268437289" symbol="compute"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="22" lineNum="148" parent="globals/RunningEfficiencyView" pc="268437336" symbol="compute"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="22" lineNum="151" parent="globals/RunningEfficiencyView" pc="268437364" symbol="compute"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="22" lineNum="152" parent="globals/RunningEfficiencyView" pc="268437381" symbol="compute"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="22" lineNum="153" parent="globals/RunningEfficiencyView" pc="268437428" symbol="compute"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="22" lineNum="156" parent="globals/RunningEfficiencyView" pc="268437456" symbol="compute"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="22" lineNum="157" parent="globals/RunningEfficiencyView" pc="268437473" symbol="compute"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="22" lineNum="158" parent="globals/RunningEfficiencyView" pc="268437520" symbol="compute"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="22" lineNum="163" parent="globals/RunningEfficiencyView" pc="268437567" symbol="compute"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="22" lineNum="166" parent="globals/RunningEfficiencyView" pc="268437592" symbol="compute"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="22" lineNum="169" parent="globals/RunningEfficiencyView" pc="268437634" symbol="compute"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="22" lineNum="170" parent="globals/RunningEfficiencyView" pc="268437742" symbol="compute"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="22" lineNum="171" parent="globals/RunningEfficiencyView" pc="268437783" symbol="compute"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="22" lineNum="174" parent="globals/RunningEfficiencyView" pc="268437824" symbol="compute"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="22" lineNum="175" parent="globals/RunningEfficiencyView" pc="268437874" symbol="compute"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="22" lineNum="176" parent="globals/RunningEfficiencyView" pc="268437900" symbol="compute"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="22" lineNum="180" parent="globals/RunningEfficiencyView" pc="268437928" symbol="compute"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="22" lineNum="181" parent="globals/RunningEfficiencyView" pc="268437987" symbol="compute"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="22" lineNum="183" parent="globals/RunningEfficiencyView" pc="268438013" symbol="compute"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="22" lineNum="185" parent="globals/RunningEfficiencyView" pc="268438046" symbol="compute"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="22" lineNum="187" parent="globals/RunningEfficiencyView" pc="268438063" symbol="compute"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="22" lineNum="188" parent="globals/RunningEfficiencyView" pc="268438082" symbol="compute"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="22" lineNum="191" parent="globals/RunningEfficiencyView" pc="268438098" symbol="compute"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="22" lineNum="194" parent="globals/RunningEfficiencyView" pc="268438111" symbol="compute"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="23" lineNum="23" parent="globals/RunningEfficiencyView" pc="268438172" symbol="&lt;init&gt;"/>
+        <entry filename="/home/hugo/Bureau/Garmin/running-efficiency/source/RunningEfficiencyView.mc" id="23" lineNum="23" parent="globals/RunningEfficiencyView" pc="268438172" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="25" lineNum="2" parent="globals/Rez/Drawables" pc="268438146" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="26" lineNum="6" parent="globals/Rez/Fonts" pc="268438148" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="27" lineNum="8" parent="globals/Rez/JsonData" pc="268438150" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="28" lineNum="10" parent="globals/Rez/Layouts" pc="268438149" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="29" lineNum="12" parent="globals/Rez/Menus" pc="268438147" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="30" lineNum="14" parent="globals/Rez/Strings" pc="268438151" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="31" lineNum="1" parent="globals/Rez" pc="268438122" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="31" lineNum="1" parent="globals/Rez" pc="268438122" symbol="&lt;init&gt;"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry field="true" id="51" symbol="dist"/>
+        <entry field="true" id="55" symbol="val"/>
+        <entry field="true" id="45" symbol="rolling_duration_grade"/>
+        <entry field="true" id="39" symbol="metric_id"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry field="true" id="29" symbol="METRIC_ID_TITLE"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="8389849" symbol="units"/>
+        <entry id="8391212" method="true" symbol="mean"/>
+        <entry field="true" id="31" symbol="queue"/>
+        <entry field="true" id="17" symbol="NORM_TITLE"/>
+        <entry field="true" id="48" symbol="heart_rate"/>
+        <entry field="true" id="16" symbol="pace"/>
+        <entry field="true" id="46" symbol="efficiencyFitField"/>
+        <entry field="true" id="54" symbol="rolling_output"/>
+        <entry field="true" id="43" symbol="normalizing_constant"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="52" symbol="n_seconds"/>
+        <entry field="true" id="50" symbol="instant_gap"/>
+        <entry id="8389747" method="true" symbol="onTimerStart"/>
+        <entry field="true" id="21" symbol="AppName"/>
+        <entry field="true" id="8388963" symbol="altitude"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="11" method="true" symbol="grade_factor"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry field="true" id="20" symbol="chart_units_re"/>
+        <entry field="true" id="8388795" method="true" symbol="length"/>
+        <entry id="8388631" module="true" symbol="Activity"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry field="true" id="27" symbol="running_efficiency"/>
+        <entry field="true" id="22" symbol="WINDOW_GRADE_TITLE"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry field="true" id="25" symbol="gap"/>
+        <entry field="true" id="33" symbol="sum"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="14" module="true" symbol="Menus"/>
+        <entry id="12" object="true" symbol="RunningEfficiencyView"/>
+        <entry id="8389275" method="true" symbol="getApp"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="35" method="true" symbol="last"/>
+        <entry id="8389137" method="true" symbol="compute"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="8390685" method="true" symbol="onWorkoutStepComplete"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry field="true" id="38" symbol="lag"/>
+        <entry field="true" id="23" symbol="WINDOW_TITLE"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry field="true" id="24" symbol="chart_label_re"/>
+        <entry field="true" id="44" symbol="rolling_duration"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="10" object="true" symbol="RunningEfficiencyApp"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="32" symbol="counter"/>
+        <entry field="true" id="15" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry field="true" id="49" symbol="grade"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry field="true" id="8388958" symbol="speed"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry field="true" id="40" symbol="rFTP"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="30" symbol="LTHR_TITLE"/>
+        <entry id="36" method="true" symbol="count_not_null"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="8389780" module="true" symbol="FitContributor"/>
+        <entry field="true" id="8388961" symbol="power"/>
+        <entry field="true" id="37" symbol="ignore_first"/>
+        <entry field="true" id="28" symbol="VERSION_ID_TITLE"/>
+        <entry field="true" id="42" symbol="threshold_factor"/>
+        <entry id="8388641" module="true" symbol="Math"/>
+        <entry field="true" id="53" symbol="rolling_input"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389847" symbol="mesgType"/>
+        <entry id="9" object="true" symbol="Queue"/>
+        <entry id="47" method="true" symbol="reset_queues"/>
+        <entry id="13" module="true" symbol="Layouts"/>
+        <entry id="34" method="true" symbol="current"/>
+        <entry field="true" id="41" symbol="LTHR"/>
+        <entry id="8389750" method="true" symbol="onTimerResume"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry field="true" id="18" symbol="SKIP_FIRST_TITLE"/>
+        <entry id="8390514" method="true" symbol="update"/>
+        <entry field="true" id="19" symbol="RFTPa_TITLE"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry field="true" id="26" symbol="RFTP_TITLE"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435481" name="len" stackId="1" startPc="268435456"/>
+        <entry endPc="268435553" name="i" stackId="2" startPc="268435513"/>
+        <entry arg="true" endPc="268435570" name="member" stackId="1" startPc="268435482"/>
+        <entry endPc="268435700" name="i" stackId="1" startPc="268435622"/>
+        <entry arg="true" endPc="268435789" name="n" stackId="1" startPc="268435745"/>
+        <entry endPc="268435910" name="i" stackId="2" startPc="268435824"/>
+        <entry arg="true" endPc="268435913" name="n" stackId="1" startPc="268435790"/>
+        <entry endPc="268436023" name="i" stackId="1" startPc="268435961"/>
+        <entry arg="true" endPc="268436058" name="state" stackId="1" startPc="268436054"/>
+        <entry arg="true" endPc="268436063" name="state" stackId="1" startPc="268436059"/>
+        <entry arg="true" endPc="268436174" name="g" stackId="1" startPc="268436135"/>
+        <entry arg="true" endPc="268437106" name="lag_duration" stackId="1" startPc="268436795"/>
+        <entry arg="true" endPc="268438120" name="info" stackId="1" startPc="268437176"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="pace"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="NORM_TITLE"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="SKIP_FIRST_TITLE"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="RFTPa_TITLE"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="chart_units_re"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="WINDOW_GRADE_TITLE"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="WINDOW_TITLE"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="chart_label_re"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="gap"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="RFTP_TITLE"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="power"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="running_efficiency"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="VERSION_ID_TITLE"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="METRIC_ID_TITLE"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="LTHR_TITLE"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/Rez" offset="174" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="253" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="292" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="323" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="354" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="385" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="416" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/RunningEfficiencyApp" offset="575" parentId="globals" symbolId="RunningEfficiencyApp" type="class"/>
+        <dataEntry label="globals/Queue" offset="646" parentId="globals" symbolId="Queue" type="class"/>
+        <dataEntry label="globals/RunningEfficiencyView" offset="765" parentId="globals" symbolId="RunningEfficiencyView" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" endPc="268435481" name="initialize" parent="Queue" startPc="268435456">
+            <param id="len"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435570" name="update" parent="Queue" startPc="268435482">
+            <param id="member"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435744" name="mean" parent="Queue" startPc="268435571">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435789" name="current" parent="Queue" startPc="268435745">
+            <param id="n"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435913" name="last" parent="Queue" startPc="268435790">
+            <param id="n"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436030" name="count_not_null" parent="Queue" startPc="268435914">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268438171" name="&lt;init&gt;" parent="Queue" startPc="268438171">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436053" name="initialize" parent="RunningEfficiencyApp" startPc="268436031">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436058" name="onStart" parent="RunningEfficiencyApp" startPc="268436054">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436063" name="onStop" parent="RunningEfficiencyApp" startPc="268436059">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436105" name="getInitialView" parent="RunningEfficiencyApp" startPc="268436064">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268438170" name="&lt;init&gt;" parent="RunningEfficiencyApp" startPc="268438152">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436134" name="getApp" startPc="268436106">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436174" name="grade_factor" startPc="268436135">
+            <param id="g"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436794" name="initialize" parent="RunningEfficiencyView" startPc="268436175">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437106" name="reset_queues" parent="RunningEfficiencyView" startPc="268436795">
+            <param id="lag_duration"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437131" name="onTimerStart" parent="RunningEfficiencyView" startPc="268437107">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437153" name="onTimerResume" parent="RunningEfficiencyView" startPc="268437132">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437175" name="onWorkoutStepComplete" parent="RunningEfficiencyView" startPc="268437154">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438120" name="compute" parent="RunningEfficiencyView" startPc="268437176">
+            <param id="info"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268438190" name="&lt;init&gt;" parent="RunningEfficiencyView" startPc="268438172">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268438146" name="&lt;init&gt;" parent="Drawables" startPc="268438146">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268438148" name="&lt;init&gt;" parent="Fonts" startPc="268438148">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268438150" name="&lt;init&gt;" parent="JsonData" startPc="268438150">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268438149" name="&lt;init&gt;" parent="Layouts" startPc="268438149">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268438147" name="&lt;init&gt;" parent="Menus" startPc="268438147">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268438151" name="&lt;init&gt;" parent="Strings" startPc="268438151">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268438145" name="&lt;init&gt;" parent="Rez" startPc="268438122">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
